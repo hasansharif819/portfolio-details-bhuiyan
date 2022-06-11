@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "name": "Bhuiyan Tools Home",
+        "bullet1": "Navbar is exists all the pages",
+        "bullet2": "In home page using Carousal",
+        "bullet3": "Users reviews or feedback are on home page",
+        "bullet4": "Contact form",
+        "bullet5": "In this page, Single tool is opened for taking quantity values",
+        "img": "https://i.ibb.co/MGwt1F9/bhuiyan6.png"
+    },
+    {
+        "id": 2,
+        "name": "Bhuiyan Tools Purchase",
+        "bullet1": "All tools exists here",
+        "bullet2": "Tools Names",
+        "bullet3": "Tools Description",
+        "bullet4": "Single tools price",
+        "bullet5": "Order Button",
+        "img": "https://i.ibb.co/s2Tg9vz/bhuiyan4.png"
+    },
+    {
+        "id": 3,
+        "name": "Bhuiyan Tools Order Form",
+        "bullet1": "This is a form",
+        "bullet2": "User name from loggedin user",
+        "bullet3": "User email from loggedin user",
+        "bullet4": "User Address",
+        "bullet4": "User Contact number",
+        "img": "https://i.ibb.co/sjfsFnr/bhuiyan1.png"
+    },
+    {
+        "id": 4,
+        "name": "Bhuiyan Tools Order",
+        "bullet1": "This is admin page",
+        "bullet2": "Admin can only seen all the orders.",
+        "bullet3": "Admin can cancel any order",
+        "img": "https://i.ibb.co/s2Tg9vz/bhuiyan4.png"
+    },
+    {
+        "id": 5,
+        "name": "Bhuiyan Tools User",
+        "bullet1": "Admin Page",
+        "bullet2": "Admin can only seen all the users",
+        "bullet3": "High rated tools are exists there",
+        "bullet4": "Admin can make a user as admin",
+        "bullet5": "Admin can remove a user",
+        "img": "https://i.ibb.co/5Wx4hWt/bhuiyan5.png"
+    },
+    {
+        "id": 6,
+        "name": "Bhuiyan Tools user order",
+        "bullet1": "user can see his/her orders",
+        "bullet2": "Users name and email also exists here",
+        "bullet3": "User can dancel his/her order",
+        "bullet4": "User can make payment",
+        "bullet5": "In review, user can make his feedback",
+        "img": "https://i.ibb.co/sRvWDhg/bhuiyan7.png"
+    }
+]
